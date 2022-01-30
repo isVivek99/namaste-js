@@ -7,7 +7,7 @@ function a() {
 }
 
 a();
-console.log(b);
+// console.log(b);
 //steps of execution:
 //1. GEC is pushed on call-stack
 //2. a() is assigned memory in call stack
